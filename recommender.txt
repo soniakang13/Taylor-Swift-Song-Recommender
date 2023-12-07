@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+re
+nltk.corpus
+nltk.stem
+nltk.tokenize
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
+gensim.models.doc2vec
+streamlit
